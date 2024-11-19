@@ -16,7 +16,7 @@
 
 ---
 
-## 3. Key Features
+## Key Features
 1. **Real-Time Code Suggestions**:
    - Automatically completes code based on context.
 2. **Multi-Language Support**:
