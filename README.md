@@ -25,6 +25,7 @@
    - Provides recommendations for cleaner, more efficient code.
 4. **Test-Driven Development**:
    - Assists in writing unit tests to improve code reliability.
+![image](https://github.com/user-attachments/assets/d48cee05-b570-4cd7-aec3-9a7e5f5dd405)
 
 ---
 
