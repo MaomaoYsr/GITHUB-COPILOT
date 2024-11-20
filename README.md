@@ -37,7 +37,7 @@
 ## 5. Ethical Concerns or Risks of Long-Term Use
 1. **Over-Reliance on AI**:
    - Developers may become less skilled in manual coding.
-2. **Intellectual Property Issues**:
+2. **Copyright Issues**:
    - Concerns about suggestions based on public code repositories.
 3. **Bias and Security Risks**:
    - Potential for biased code or vulnerabilities in generated code.
