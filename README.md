@@ -29,12 +29,12 @@
 
 ---
 
-## 4. Demo of Specific Use Cases
+## Demo of Specific Use Cases
 <img width="1409" alt="截屏2024-11-18 23 50 21" src="https://github.com/user-attachments/assets/626b5fbb-4765-4aa8-833b-d2b00aeca8ba">
 
 ---
 
-## 5. Ethical Concerns or Risks of Long-Term Use
+## Ethical Concerns or Risks of Long-Term Use
 1. **Over-Reliance on AI**:
    - Developers may become less skilled in manual coding.
 2. **Copyright Issues**:
@@ -45,7 +45,7 @@
 
 ---
 
-## 6. Reflection on Usability and Potential Improvements
+##  Reflection on Usability and Potential Improvements
 - **Usability**:
   - User-friendly and intuitive, especially for beginners.
 - **Potential Improvements**:
@@ -57,8 +57,7 @@
      - Add options to explain suggested code for better learning.
 
 ---
+## Reference
+- GitGuardian. (n.d.). GitHub Copilot: Security and privacy risks. GitGuardian Blog. Retrieved November 19, 2024, from https://blog.gitguardian.com/github-copilot-security-and-privacy/
+- GitHub. (n.d.). Features. Retrieved November 19, 2024, from https://github.com/features
 
-## Conclusion
-- GitHub Copilot has revolutionized the coding process by enhancing productivity and accessibility.
-- Despite some concerns, it remains a powerful tool for both professional and beginner developers.
-- Let’s explore its potential together in the presentation. Thank you!
