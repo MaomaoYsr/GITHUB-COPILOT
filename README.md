@@ -58,7 +58,7 @@
 
 ---
 
-## 7. Conclusion
+## Conclusion
 - GitHub Copilot has revolutionized the coding process by enhancing productivity and accessibility.
 - Despite some concerns, it remains a powerful tool for both professional and beginner developers.
 - Let’s explore its potential together in the presentation. Thank you!
