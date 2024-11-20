@@ -32,6 +32,11 @@
 ## Demo of Specific Use Cases
 <img width="1409" alt="截屏2024-11-18 23 50 21" src="https://github.com/user-attachments/assets/626b5fbb-4765-4aa8-833b-d2b00aeca8ba">
 
+
+[Watch the video](https://github.com/user-attachments/assets/75829117-cbe7-4449-80d1-90fa0cf7ebec)
+
+
+
 ---
 
 ## 5.Ethical Concerns or Risks of Long-Term Use
