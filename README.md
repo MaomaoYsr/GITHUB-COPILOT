@@ -38,7 +38,7 @@
 
 ---
 
-## 5.Ethical Concerns or Risks of Long-Term Use
+## Ethical Concerns or Risks of Long-Term Use
 1. **Over-Reliance on AI**:
    - Developers may become less skilled in manual coding.
 2. **Copyright Issues**:
@@ -49,7 +49,7 @@
 
 ---
 
-##  6.Reflection on Usability and Potential Improvements
+##  Reflection on Usability and Potential Improvements
 - **Usability**:
   - User-friendly and intuitive, especially for beginners.
 - **Potential Improvements**:
