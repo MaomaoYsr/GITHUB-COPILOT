@@ -30,12 +30,7 @@
 ---
 
 ## 4. Demo of Specific Use Cases
-- **Scenario 1: Rapid Prototyping**:
-  - Demonstrate how Copilot generates boilerplate code for setting up projects.
-- **Scenario 2: Error Fixing**:
-  - Show how it identifies and suggests fixes for coding errors.
-- **Scenario 3: Learning Tool**:
-  - Highlight its ability to help beginners understand coding patterns.
+<img width="1409" alt="截屏2024-11-18 23 50 21" src="https://github.com/user-attachments/assets/626b5fbb-4765-4aa8-833b-d2b00aeca8ba">
 
 ---
 
@@ -46,6 +41,7 @@
    - Concerns about suggestions based on public code repositories.
 3. **Bias and Security Risks**:
    - Potential for biased code or vulnerabilities in generated code.
+![image](https://github.com/user-attachments/assets/4decf7c3-49f1-455a-986e-16a57f82eaf2)
 
 ---
 
